@@ -1,4 +1,4 @@
-// Função para calcular a média de um array de números
+// Função para calcular a média de um array de números 2
 function calcularMedia(numeros) {
     if (!Array.isArray(numeros) || numeros.length === 0) {
         throw new Error("Por favor, forneça um array de números não vazio.");
